@@ -1,0 +1,5 @@
+Algorithm,Accuracy
+Logistic Regression,40.81
+Decision Tree,27.21
+Random Forest,39.4
+SVM,41.7
